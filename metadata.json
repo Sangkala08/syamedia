@@ -1,0 +1,6 @@
+{
+  "name": "FlashLearn - Platform E-Learning Multimedia SWF/Flash",
+  "description": "Platform e-learning interaktif modern dengan dukungan penuh pemutaran materi multimedia Adobe Flash (.SWF) berbasis WebAssembly Ruffle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

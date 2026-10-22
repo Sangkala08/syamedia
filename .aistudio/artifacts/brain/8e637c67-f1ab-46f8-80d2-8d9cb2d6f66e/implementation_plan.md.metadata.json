@@ -1,0 +1,6 @@
+{
+  "summary": "Rencana implementasi untuk fitur Unggah Banyak File Sekaligus (Batch Upload) dan Impor Langsung dari Google Drive ke dalam Modul dan Submateri Tes Potensi Akademik (TPA). Rencana ini mencakup antarmuka pemetaan berkas ke submateri (Verbal, Proposisi, Analitik, Barisan, Matematika Dasar), penanganan penyimpanan IndexedDB, validasi tautan Google Drive, dan integrasi pemutaran di Ruffle.",
+  "updatedAt": "2026-10-20T12:32:06.260176677Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
